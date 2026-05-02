@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', function () {
       e.preventDefault();
 
       // ── Single source of truth for the endpoint ──────────────────────────
-      const WEBHOOK_URL = 'https://chihuahua-darkish-rut.ngrok-free.dev/webhook-test/voealtoconsultoria-lead';
+      const WEBHOOK_URL = 'https://chihuahua-darkish-rut.ngrok-free.dev/webhook/voealtoconsultoria-lead';
 
       // ── UI references ────────────────────────────────────────────────────
       const submitBtn    = document.getElementById('form-submit-btn');
